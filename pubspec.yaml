@@ -1,10 +1,10 @@
 name: weight_slider
 description: Customisable slider widget for retrieving a person's weight/mass.
-version: 1.2.0
+version: 1.2.1
 homepage: https://covalsolutions.com
-repository: https://github.com/coval-solutions/weight-slider
-issue_tracker: https://github.com/coval-solutions/weight-slider/issues
-documentation: https://github.com/coval-solutions/weight-slider/blob/master/README.md
+repository: https://github.com/iRajul/weight-slider
+issue_tracker: https://github.com/iRajul/weight-slider/issues
+documentation: https://github.com/iRajul/weight-slider/blob/master/README.md
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -13,7 +13,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_svg: ^0.19.1
+  flutter_svg: ^0.20.0-nullsafety.3
 
 flutter:
   uses-material-design: true
